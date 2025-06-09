@@ -22,3 +22,5 @@ This file contains code developed by F.M.A. Mitrotta on system identification. T
 
 For a given range of speeds, it returns the full implemented GRFP method, with illustrative graphs for the degrees of freedom considered.
 
+The original code by F.M.A. Mitrotta included in the file GRFP_2DOF can be found in:
+https://github.com/fmamitrotta/learn-aeroelastic-sid/blob/main/notebooks/04_Identification_of_a_2-DOF_Mass-Spring-Damper_System_with_the_RFP_Method.ipynb
