@@ -24,3 +24,9 @@ For a given range of speeds, it returns the full implemented GRFP method, with i
 
 The original code by F.M.A. Mitrotta included in the file GRFP_2DOF can be found in:
 https://github.com/fmamitrotta/learn-aeroelastic-sid/blob/main/notebooks/04_Identification_of_a_2-DOF_Mass-Spring-Damper_System_with_the_RFP_Method.ipynb
+
+# pk_3d_2_dof_Thodorsen_aero
+This is a pk method implemented for a finite wing. It provides the flutter point of a model similar to that described by Wright and Cooper but implementing Theodorsen's unsteady model.
+
+# pk_3d_2_dof_RTJones_aero
+This is a pk method implemented for a finite wing. It provides the flutter point of a model similar to that described by Wright and Cooper but implementing R.T.Jones approximation to Theodorsen's unsteady model.
